@@ -1,0 +1,2 @@
+# shopping
+practicing angular course
